@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+.font-handwriting-en {
+  font-family: 'Dancing Script', cursive;
+}
+
+.font-handwriting-ja {
+  font-family: 'Noto Serif JP', serif;
+}
+
+.font-handwriting-zh {
+  font-family: 'Ma Yen Xing', cursive;
+}

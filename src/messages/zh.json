@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "title": "NameCraft AI：免费的中文、英文和日文名字生成器",
+    "description": "使用我们的AI驱动的名字生成器，生成完美的英文、日文和中文名字。创建独特、符合文化的名字，并提供手写和发音功能。"
+  },
+  "nav": {
+    "features": "功能特点",
+    "howItWorks": "使用方法",
+    "pricing": "价格",
+    "support": "支持",
+    "getStarted": "立即开始"
+  },
+  "hero": {
+    "title": "多语言完美名字生成器",
+    "subtitle": "为角色、婴儿或企业生成独特、符合文化特色的英文、中文和日文名字。",
+    "tryNow": "立即尝试",
+    "learnMore": "了解更多"
+  },
+  "features": {
+    "title": "强大功能",
+    "subtitle": "生成完美名字所需的一切",
+    "multiLanguage": {
+      "title": "多语言支持",
+      "description": "以文化真实性生成英文、中文和日文名字。"
+    },
+    "customizable": {
+      "title": "自定义选项",
+      "description": "选择性别、风格和其他参数以创建完美名字。"
+    },
+    "batchGeneration": {
+      "title": "批量生成",
+      "description": "一次生成多个独特名字，完美适用于角色列表或命名创意。"
+    }
+  }
+}

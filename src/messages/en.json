@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "title": "NameCraft AI: Free Chinese, English, and Japanese Name Generator for Everyone",
+    "description": "Generate perfect names in English, Japanese, and Chinese with our AI-powered name generator. Create unique, culturally appropriate names with handwriting and pronunciation features."
+  },
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "pricing": "Pricing",
+    "support": "Support",
+    "getStarted": "Get Started"
+  },
+  "hero": {
+    "title": "Create Perfect Names in Multiple Languages",
+    "subtitle": "Generate unique, culturally appropriate names for characters, babies, or businesses in English, Chinese, and Japanese.",
+    "tryNow": "Try Now",
+    "learnMore": "Learn More"
+  },
+  "features": {
+    "title": "Powerful Features",
+    "subtitle": "Everything you need to generate the perfect name",
+    "multiLanguage": {
+      "title": "Multi-Language Support",
+      "description": "Generate names in English, Chinese, and Japanese with cultural authenticity."
+    },
+    "customizable": {
+      "title": "Customizable Options",
+      "description": "Choose gender, style, and other parameters to create the perfect name."
+    },
+    "batchGeneration": {
+      "title": "Batch Generation",
+      "description": "Generate multiple unique names at once, perfect for character lists or naming ideas."
+    }
+  }
+}
